@@ -1,5 +1,4 @@
-
-GROUP PROJECT 0X11 C PRINTF 
+GROUP PROJECT 0X11 C PRINTF
 
 1. Allowed editors: vi, vim, emacs
 
@@ -7,7 +6,7 @@ GROUP PROJECT 0X11 C PRINTF
 
 3. All your files should end with a new line
 
-4. A README.md file, at the root of the folder of the project is mandatory
+4. README.md file, at the root of the folder of the project is mandatory
 
 5. Your code should use the Betty style. It will be checked using betty-style.pl and betty-doc.pl
 
